@@ -1,1 +1,1 @@
-# ChatGPT_Prompts
+# My Prompts
